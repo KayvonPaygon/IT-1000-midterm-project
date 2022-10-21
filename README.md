@@ -3,7 +3,7 @@
 ### This is the **main/home** page.  
 ##### Click on the hyper links for things about me
 
-- [FunFacts: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/funfacts.md) Some fun facts about me, **_The_** Kevin Pagan
+- [Fun Facts: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/funfacts.md) Some fun facts about me, **_The_** Kevin Pagan
 
 - [Picture of Cat: ](Xmilkcat.jpg) I promise, it's a picture of a cat. A really cute one too.
 
