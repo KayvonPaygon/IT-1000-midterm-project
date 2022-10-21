@@ -16,3 +16,5 @@
 - [Poem: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/Poem.md) A poem about passing this class
 
 - [Favorite Quote: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/Quote.md) A true historical quote
+
+- [Top 10 Things I **HATE**](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/ThingsIHate.md)
