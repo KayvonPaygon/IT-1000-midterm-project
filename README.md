@@ -14,3 +14,5 @@
 - [A **SECOND** Picture of a Cat: ](https://i.imgflip.com/1gty1y.jpg) I love cats, so i'll bless you with this
 
 - [Poem: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/Poem.md) A poem about passing this class
+
+- [Favorite Quote: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/Quote.md) 
