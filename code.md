@@ -11,4 +11,4 @@
 
     print(random.choice(facts))
    
-# [Return to MAIN]()
+# [Return to MAIN](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/README.md)
