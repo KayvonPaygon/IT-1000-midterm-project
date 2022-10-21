@@ -2,4 +2,4 @@
 
 #### This is the main/home page
 
-- Bruh
+- [Bruh](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/funfacts.md)
