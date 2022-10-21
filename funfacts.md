@@ -11,4 +11,4 @@
 9) Crocs are approved by me
 10) I worked on a huge essay that was worth half my grade for 4 weeks and it didn't even get graded :|
 
-### [Back to Main](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/README.md)
+## [Back to Main](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/README.md)
