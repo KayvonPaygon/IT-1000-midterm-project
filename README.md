@@ -5,7 +5,7 @@
 
 - [FunFacts: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/funfacts.md) Some fun facts about me, **_The_** Kevin Pagan
 
-- [Picture of Cat: ]() I promise, it's a picture of a cat. A really cute one too.
+- [Picture of Cat: ](Xmilkcat.jpg) I promise, it's a picture of a cat. A really cute one too.
 
 - [Code: ]() Did I mention i'm a coder, I'm _really_ good. Look at it
 
