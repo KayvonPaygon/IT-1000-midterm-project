@@ -17,4 +17,4 @@
 
 - [Favorite Quote: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/Quote.md) A true historical quote
 
-- [Top 10 Things I **HATE**](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/ThingsIHate.md)
+- [Top 10 Things I **HATE**: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/ThingsIHate.md) Self explanatory
