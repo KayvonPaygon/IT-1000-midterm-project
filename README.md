@@ -7,7 +7,7 @@
 
 - [Picture of Cat: ](Xmilkcat.jpg) I promise, it's a picture of a cat. A really cute one too.
 
-- [Code: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/code.py) Did I mention i'm a coder, I'm _really_ good. Look at it
+- [Code: ](https://github.com/KayvonPaygon/IT-1000-midterm-project/blob/main/code.md) Did I mention i'm a coder, I'm _really_ good. Look at it
 
 - [Cool Math Games: ](https://www.coolmathgames.com/) This is what I do instead of studying
 
